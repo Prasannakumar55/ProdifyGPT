@@ -1,0 +1,21 @@
+.Navbar-head{
+    display: flex;
+    width: 100vw;
+
+}
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px 10px 20px;
+    border-bottom: 1px solid rgb(227, 227, 227);
+    width: 80%;
+    height: 5vh;
+}
+.TbMenu {
+    width: 27px;
+    height: 22px;
+}
+.FaRegEdit{
+    width: 15px;
+    height: 25px;
+}

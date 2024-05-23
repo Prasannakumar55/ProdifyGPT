@@ -1,0 +1,19 @@
+.Sidebar{
+    width: 15vw;
+    height: 100vh;
+    padding-left: 18px;
+    background-color: rgb(165, 213, 255);
+}
+.sidebar-head{
+    display: flex;
+    justify-content: start;
+    padding: 25px 0px 25px 0px;
+}
+.chat-head{
+    padding: 5px;
+}
+
+@media screen and (min-width: 300px) and (max-width: 400px) {
+
+}
+  
